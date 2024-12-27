@@ -1,2 +1,5 @@
-# quantum
+# Quantum
 This repo is for Quantum related computing 
+
+# Current coruse:
+- https://learning.quantum.ibm.com/course/basics-of-quantum-information/single-systems#qiskit-examples
